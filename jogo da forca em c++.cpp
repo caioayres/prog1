@@ -1,3 +1,13 @@
+/* Caio Ayres
+   Lucas Conrado
+   Gil Arruda
+   */
+
+
+
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
